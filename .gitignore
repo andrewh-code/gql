@@ -1,0 +1,7 @@
+pvenv/Include/*
+pvenv/Lib/*
+pvenv/Scripts/*
+pvenv/pyvenv.cfg
+pvenv/pip-selfcheck.json
+pvenv/*.sqlite3
+.vscode/*
